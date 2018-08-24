@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "ws --static.index index.xml"
+  },
+  "dependencies": {
+    "local-web-server": "^2.6.0"
+  }
+}
